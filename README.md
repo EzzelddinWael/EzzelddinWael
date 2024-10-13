@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development, especially for web and mobile applications.
 - 🌱 I’m currently learning C++, Data Structures & Algorithms, and Problem Solving. I’m also exploring APIs and databases to build beginner to intermediate backend projects.
 - 💞️ I’m looking to collaborate on beginner-friendly and intermediate-level backend projects or open-source contributions.
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: [https://www.linkedin.com/in/ezzelddin-megahed/]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving coding challenges and working out with science-based training plans.
 
