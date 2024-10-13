@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EzzelddinWael
-- 👀 I’m interested in backend development, especially for web and mobile applications.
+- 🌱I am currently studying software engineering
 - 🌱 I’m currently learning C++, Data Structures & Algorithms, and Problem Solving. I’m also exploring APIs and databases to build beginner to intermediate backend projects.
+- 👀 I’m interested in backend development, especially for web and mobile applications.
 - 💞️ I’m looking to collaborate on beginner-friendly and intermediate-level backend projects or open-source contributions.
 - 📫 How to reach me: [https://www.linkedin.com/in/ezzelddin-megahed/]
 - 😄 Pronouns: He/Him
