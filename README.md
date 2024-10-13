@@ -18,7 +18,11 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5A8DEE?style=flat-square&logo=GeeksforGeeks&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-004B87?style=flat-square&logo=codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-F9DC5C?style=flat-square&logo=leetcode&logoColor=black)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
